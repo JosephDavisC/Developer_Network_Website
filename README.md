@@ -4,8 +4,7 @@
 
 # 🌐 Developer Network Website (Dev.Net) — *Archived Project*
 
-This is the official website that was built for **Dev.Net**, the **first-ever technology club launched at HighScope Indonesia**.  
-The club was dedicated to fostering a love for **programming, design, video editing, and technology** among students.
+This is the official website that was built for **Dev.Net**, the **first-ever technology club launched at HighScope Indonesia**. The club was dedicated to fostering a love for **programming, design, video editing, and technology** among students.
 
 ⚠️ **Note:** The Dev.Net club is no longer operational, but this repository and website remain as a showcase of the project and my contribution to building a student tech community.
 
@@ -35,7 +34,7 @@ This was also one of my earliest experiences in **web development, hosting, and 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5 / CSS3 / JavaScript** – Frontend  
+- **HTML5 / CSS3 /** – Frontend  
 - **PHP** – Contact form backend  
 - **Hostinger** – Hosting and domain management  
 
@@ -68,5 +67,4 @@ Deployment involved uploading project files to Hostinger’s web server (via Fil
 ---
 
 ## 💡 Personal Note
-Dev.Net was the **first tech club to ever be launched at HighScope Indonesia School**, and I’m proud to have been its **founder**.  
-Even though the club is no longer active, it marked a milestone in my journey — combining **leadership, community-building, and web development** for the very first time.  
+Dev.Net was the **first tech club to ever be launched at HighScope Indonesia School**, and I’m proud to have been its **founder**. Even though the club is no longer active, it marked a milestone in my journey — combining **leadership, community-building, and web development** for the very first time.  
