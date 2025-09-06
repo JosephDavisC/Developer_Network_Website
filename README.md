@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="devnet-cover.png" alt="DevNet Logo" width="500"/>
+  <img src="devnet-cover.png" alt="DevNet Logo" width="100%" height="250"/>
 </p>
 
 # 🌐 Developer Network Website (Dev.Net) — *Archived Project*
@@ -58,7 +58,6 @@ Deployment involved uploading project files to Hostinger’s web server (via Fil
 
 ## 📸 Project Preview
 ![Dev.Net Website Preview](preview.png)  
-*(Replace `screenshot.png` with an actual homepage screenshot from the site)*
 
 ---
 
@@ -71,9 +70,3 @@ Deployment involved uploading project files to Hostinger’s web server (via Fil
 ## 💡 Personal Note
 Dev.Net was the **first tech club to ever be launched at HighScope Indonesia School**, and I’m proud to have been its **founder**.  
 Even though the club is no longer active, it marked a milestone in my journey — combining **leadership, community-building, and web development** for the very first time.  
-
----
-
-## 📜 License
-Open-source under the **MIT License**.  
-This project can be referenced as an example of a **student-led community website**.
